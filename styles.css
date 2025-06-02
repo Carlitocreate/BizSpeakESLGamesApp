@@ -69,3 +69,24 @@ section ul li a:hover {
     text-decoration: underline;
     color: #1E90FF; /* Bright blue on hover */
 }
+
+/* Style for the teaching website link */
+.teaching-link {
+    margin: 20px 0;
+}
+
+.teaching-link a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #F5F5F5; /* Light grey background for button effect */
+    border-radius: 5px;
+    text-decoration: none;
+    color: #32CD32; /* Lime green */
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.teaching-link a:hover {
+    color: #1E90FF; /* Bright blue on hover */
+    background-color: #E0E0E0; /* Slightly darker grey on hover */
+}
