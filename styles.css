@@ -33,21 +33,21 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #32CD32; /* Lime green for nav links */
+    color: #1E90FF; /* Changed from Lime Green to Bright Blue (Dodger Blue) */
     font-size: 20px;
     font-weight: bold;
 }
 
 nav ul li a:hover {
-    color: #1E90FF; /* Bright blue on hover */
+    color: #1E90FF; /* Already Bright Blue, no change needed */
 }
 
 section {
-    margin: 40px 0;
+    margin: 40px 20px;
     padding: 20px;
     background-color: #FFFFFF; /* White section background */
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 section ul {
@@ -60,14 +60,14 @@ section ul li {
 }
 
 section ul li a {
-    color: #32CD32; /* Lime green for game links */
+    color: #1E90FF; /* Changed from Lime Green to Bright Blue (Dodger Blue) */
     text-decoration: none;
     font-size: 18px;
 }
 
 section ul li a:hover {
     text-decoration: underline;
-    color: #1E90FF; /* Bright blue on hover */
+    color: #1E90FF; /* Already Bright Blue, no change needed */
 }
 
 /* Style for the teaching website link */
@@ -81,12 +81,12 @@ section ul li a:hover {
     background-color: #F5F5F5; /* Light grey background for button effect */
     border-radius: 5px;
     text-decoration: none;
-    color: #32CD32; /* Lime green */
+    color: #1E90FF; /* Changed from Lime Green to Bright Blue (Dodger Blue) */
     font-size: 20px;
     font-weight: bold;
 }
 
 .teaching-link a:hover {
-    color: #1E90FF; /* Bright blue on hover */
+    color: #1E90FF; /* Already Bright Blue, no change needed */
     background-color: #E0E0E0; /* Slightly darker grey on hover */
 }
